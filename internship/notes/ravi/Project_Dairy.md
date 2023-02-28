@@ -16,4 +16,7 @@
 - created a markdown file of unix commands: syntax, examples and outputs
 
 ## 20/02/2022
-- d
+- learned about git commands
+
+## 21/02/2022
+- 

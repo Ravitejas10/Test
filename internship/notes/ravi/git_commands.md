@@ -86,3 +86,14 @@ add, checkout, clone, commit, config, gitignore, log, init, merge, gitk, status,
 - the stash's meaning is "store something safely in a hidden place." 
 
         git stash  
+
+
+# data structures, functions, decorators, classes, modules, packeges, venv, error handling 
+commonly used libraries : 
+- OS, subprocess
+- datetime
+- argparse
+- pandas
+- json
+- threading
+- pools(threadpool, processpool)

@@ -242,5 +242,3 @@ deluser, delgroup, echo, find, grep, head, history, ls, man, mkdir
 
         which -a touch
 - The which command has only one option, -a. It is optional and used to print all the matches it finds.
-
-#ssh keys in github
