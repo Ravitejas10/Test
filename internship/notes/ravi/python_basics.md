@@ -1,9 +1,9 @@
 # Python
-21- *student_record, 34, 
+21- *student_record, 34 - del operator, 
 
 generators- https://www.geeksforgeeks.org/generators-in-python/ , 
 
-47 - del operator
+47 - generators
 
 lambda, filter, map, reduce -https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
 
